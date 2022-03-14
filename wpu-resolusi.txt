@@ -1,3 +1,4 @@
 WPU RESOLUSI 
 -belajar git dan flask
-- menjadi ahli python
+-menjadi ahli AI
+-dan tugas selesai
